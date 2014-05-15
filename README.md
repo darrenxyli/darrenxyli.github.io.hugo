@@ -37,3 +37,23 @@ export GOPATH="/usr/local/go"
 
 # set alias
 alias ll = 'ls -al'
+
+# this is for .gitconfig
+[user]
+	name = darrenxyli-aa
+	email = xli@appannie.com
+
+[alias]
+    st = status -s
+    ci = commit
+    l = log --oneline --decorate -12 --color
+    ll = log --oneline --decorate --color
+    lc = log --graph --color
+    co = checkout
+    br = branch
+    rb = rebase
+    dci = dcommit
+    sbi = submodule init
+    sbu = submodule update
+    sbp = submodule foreach git pull
+    sbc = submodule foreach git co master
