@@ -32,3 +32,8 @@ export GOPATH="/Users/xli/Documents/playground/mygo"
 # docker ip
 export DOCKER_HOST=tcp://127.0.0.1:4243
 
+# set gopath
+export GOPATH="/usr/local/go"
+
+# set alias
+alias ll = 'ls -al'
