@@ -2,7 +2,7 @@ baseURL = "https://darrenxyli.github.io"
 languageCode = "en-us"
 hasCJKLanguage = true
 title = "Xinyang Li"
-theme = "den"
+theme = "hugo_theme_pickles"
 
 [[menu.main]]
     name = "About"
