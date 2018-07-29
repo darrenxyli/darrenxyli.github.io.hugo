@@ -6,5 +6,5 @@ theme = "hugo_theme_pickles"
 
 [[menu.main]]
     name = "About"
-    url = "about"
+    url = "/about"
     weight = 5
