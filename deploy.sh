@@ -22,3 +22,9 @@ git push origin master
 
 # Come Back up to the Project Root
 cd ..
+
+# Push change to hugo root
+git add .
+msg="update hugo"
+git commit -m "$msg"
+git push origin master

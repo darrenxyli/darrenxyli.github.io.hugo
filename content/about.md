@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: 2018-07-28T22:24:50-07:00
-draft: true
+draft: false 
 ---
 
 ![](https://res.cloudinary.com/darrenxyli/image/upload/v1532842266/blog/2014-10-14_1413264492.jpg)
