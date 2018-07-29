@@ -6,8 +6,6 @@ draft: false
 
 ![](https://res.cloudinary.com/darrenxyli/image/upload/v1532842266/blog/2014-10-14_1413264492.jpg)
 
-
-
 ## Education
 
 Master - [Unversity at Buffalo](http://www.buffalo.edu/) - 2014/2016, Buffalo
