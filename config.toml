@@ -74,13 +74,3 @@ theme = "hugo-theme-cactus-plus"
 	facebook-square = "https://www.facebook.com/darrenxyli"
 	twitter-square = "https://www.twitter.com/darrenxyli"
 	github-square = "https://www.github.com/darrenxyli"
-
-[[menu.main]]
-   name = "首页"
-   url = "/"
-   weight = 1 
-
-[[menu.main]]
-    name = "About"
-    url = "/about"
-    weight = 5
