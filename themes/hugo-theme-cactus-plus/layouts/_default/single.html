@@ -42,6 +42,10 @@
             {{ if .Site.Params.enableDisqus }}
                 {{ partial "disqus.html" . }}
             {{ end }}
+	    
+            {{ if .Params.gitment }}
+	        {{ partial "gitment.html" . }}
+	    {{ end }}
 
             {{ if .Site.Params.showLatestPosts }}
                 {{ partial "latest-posts.html" . }}
@@ -49,10 +53,7 @@
 
             {{ partial "footer.html" . }}
         </section>
-	{{ if .Params.gitment }}
-	    {{ partial "gitment.html" . }}
-	{{ end }}
-
+	
         {{ partial "js.html" . }}
     </body>
 </html>
