@@ -49,7 +49,7 @@
 
             {{ partial "footer.html" . }}
         </section>
-	{{ if (.Params.gitment) }}
+	{{ if .Params.gitment }}
 	    {{ partial "gitment.html" . }}
 	{{ end }}
 
