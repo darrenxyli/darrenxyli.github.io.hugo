@@ -49,6 +49,9 @@
 
             {{ partial "footer.html" . }}
         </section>
+	{{ if (.Params.gitment) }}
+	    {{ partial "gitment.html" . }}
+	{{ end }}
 
         {{ partial "js.html" . }}
     </body>

@@ -2,6 +2,8 @@
 title: "写在工作后的第三年"
 date: 2018-07-28T23:41:25-07:00
 draft: false 
+slug: third-year-after-work
+gitment: true
 ---
 不长不短，三年。道家说，三是生数，可生万物。于是，我也希冀这是一个美好的开端，韶韶岁月余下的有限个三年的开端。
 
