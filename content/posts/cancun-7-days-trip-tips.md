@@ -2,6 +2,8 @@
 title: "Cancún 7-day Trip Tips"
 date: 2015-01-19T13:06:12-07:00
 draft: false
+slug: Cancún-7-day-Trip-Tips
+gitment: true
 ---
 ![](https://res.cloudinary.com/darrenxyli/image/upload/v1532981136/IMG_1493.jpg)
 #### 天气
