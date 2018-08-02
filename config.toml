@@ -26,7 +26,7 @@ googleAnalytics = "UA-57576711-2"
 
 
 	enableGoogleAnalytics = true
-	enableBaiduAnalytics = false
+	enableBaiduAnalytics = true 
 	# Set the value to your baidu analysis code if you want to use baidu analytics
 	baiduAnalytics = 'ae285b4c7fed90df4b2ffbfaf07291b1'
 
