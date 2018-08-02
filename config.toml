@@ -28,7 +28,7 @@ googleAnalytics = "UA-57576711-2"
 	enableGoogleAnalytics = true
 	enableBaiduAnalytics = false
 	# Set the value to your baidu analysis code if you want to use baidu analytics
-	baiduAnalytics = 'your_baidu_analysis_code'
+	baiduAnalytics = 'ae285b4c7fed90df4b2ffbfaf07291b1'
 
 	enableTwitterCard = true
 	# The url for twitter card image, default is avatar.png in static/images directory
