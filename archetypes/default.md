@@ -1,9 +1,9 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
+title: "{{ replace .Name "-" "-" | title }}"
 date: {{ .Date }}
 draft: true
-categories: "{{title}}"
-tags: ["{{title}}"]
+categories: "{{.Name}}"
+tags: ["{{.Name}}"]
 slug: software-design-guideline-1
 gitment: true
 ---
